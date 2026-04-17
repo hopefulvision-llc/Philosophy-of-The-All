@@ -1,3 +1,46 @@
+# Philosophy of the All
+
+> **Layer:** Foundation  
+> **Status:** Foundational Canon  
+> **Audience:** Philosophers, deep readers, metaphysical explorers, worldview architects  
+> **Related:** `living-intelligence`, `technomysticism`, `sacred-technology-renaissance`, `pancycist-rights`
+
+## What this repo is
+Philosophy of the All is a deep metaphysical foundation repo within the HopefulVision ecosystem. It explores first-principles questions about reality, consciousness, totality, will, being, and the underlying nature of existence from which other parts of the ecosystem may derive orientation.
+
+This repo operates closest to the metaphysical root layer.
+
+## Why it exists
+Without metaphysical grounding, large systems of thought often become fragmented, shallow, or internally inconsistent. Philosophy of the All exists to explore the deepest assumptions beneath the ecosystem, especially around consciousness, reality, relation, purpose, and the nature of the whole.
+
+It supports the more practical layers by clarifying the deepest philosophical substrate.
+
+## What Philosophy of the All is not
+Philosophy of the All is **not**:
+- the main public entrypoint for newcomers
+- the practical systems architecture repo, which belongs to `nousos`
+- simply interchangeable with broader movement framing in `sacred-technology-renaissance`
+
+Philosophy of the All is the **metaphysical root layer**.
+
+## How it fits the ecosystem
+This repo connects most directly to:
+- `living-intelligence`, which brings metaphysical assumptions into a life-centered theory of intelligence
+- `technomysticism`, which translates metaphysical insight into technological imagination
+- `sacred-technology-renaissance`, which carries these foundations into a broader movement frame
+- `pancycist-rights`, which depends on expanded assumptions about consciousness and moral regard
+
+## Start here
+- `README.md`
+- `PhilosophyOfTheAll_Master_Index.md`
+- `Will_of_The_Universe.md`
+
+## Current maturity
+- foundational canon
+- deep metaphysical framing
+- root worldview development
+
+
 # # Philosophy of The All
 *A Framework for Universal Intelligence and Consciousness*
 
